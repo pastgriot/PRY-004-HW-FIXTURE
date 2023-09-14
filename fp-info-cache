@@ -1,4 +1,4 @@
-21724851389137871
+21726546023735494
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89874,6 +89874,13 @@ INDUCTOR 1212 (METRIC 3030) - EPL3015
 2
 my_footprints
 TestPoint 0.8mm
+
+
+0
+1
+1
+my_footprints
+TestPoint-TH-Square-1mmHole
 
 
 0
